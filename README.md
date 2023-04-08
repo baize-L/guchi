@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://baize.asia/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欲买桂花同载酒，终不似，少年游。.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
@@ -10,9 +10,6 @@
 
 <div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
-
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 
