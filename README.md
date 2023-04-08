@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://baize.asia/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欲买桂花同载酒，终不似，少年游。.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欲买桂花同载酒，终不似，少年游。;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
